@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: LinkedIn<a href:"https://in.linkedin.com/in/shruti-vishwakarma-a1449a21">Shruti Vishwakarma</a></h3>
 <p align="left">
 </p>
 
